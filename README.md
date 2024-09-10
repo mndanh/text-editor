@@ -27,7 +27,7 @@ To install my project, the dependencies that need to be installed are expressand
 ## Usage
 
 To use my application, you're going to have to open a terminal with all dependencies installed. In that terminal, run npm start.
-You can use my website on Render [Click here to view my project on Render](https://github.com/mndanh/text-editor)
+You can use my website on Render [Click here to view my project on Render](https://text-editor-pv3d.onrender.com)
 
 ## License
 
